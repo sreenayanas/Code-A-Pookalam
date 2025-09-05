@@ -10,7 +10,7 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Hosted Pookalam Link
-
+  https://code-a-pookalam-pied.vercel.app/
 
 
 ### Pookalam Description
@@ -25,10 +25,15 @@ BASIC HTML AND CSS
 ### Video explaining How you build the pookalam
 
 
+https://github.com/user-attachments/assets/52085db7-a85b-4f4e-b38d-8f0129cc976d
+
+
+
 
 ### Screenshots
 
 
+<img width="1908" height="1010" alt="Screenshot 2025-09-05 201030" src="https://github.com/user-attachments/assets/82b74a89-9035-4f4a-aab2-7666b0d867e7" />
 
 Happy Onam ! <br>
 Made with ❤️ at TinkerHub LBSITW
