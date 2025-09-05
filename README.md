@@ -5,7 +5,7 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Your Details
-- [Name] - [Branch] - [Semester]
+- [SREE NAYANA S] - [CS3] - [S1]
 
 
 
@@ -14,11 +14,12 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Pookalam Description
-Brief description about your pookalam. What makes it special and different.
+JUST SIMPLE COLOURFUL CIRCLES
 
 
 
-### Technologies Used 
+### Technologies Used
+BASIC HTML AND CSS 
 
 
 ### Video explaining How you build the pookalam
